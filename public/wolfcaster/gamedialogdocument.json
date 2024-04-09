@@ -1,0 +1,53 @@
+{
+	"levelArray": [
+		{
+			"name":"level-0",
+			"actorsArray": [
+				{
+					"name": "toten",
+					"dialogueArray": [
+						{
+							"name": "first-dialog",
+							"lines": [
+								{
+									"animationFrame": 0,
+									"text": "1 - This is the default dialogue, contact the dev if you see this",
+									"isActorSpeaking": false
+								},
+								{
+									"animationFrame": 0,
+									"text": "2- lrovaris#4065 is my discord, you shouldn't be seeing this dialogue please contact me asap",
+									"isActorSpeaking": true
+								},
+								{
+									"animationFrame": 0,
+									"text": "3 - im for real",
+									"isActorSpeaking": false
+								}
+							]
+						}
+					],
+					"animationName": ""
+				}
+			]
+		}
+	]
+}
+
+
+
+
+
+
+
+					
+					
+
+
+
+
+
+
+
+					
+					

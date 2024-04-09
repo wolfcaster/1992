@@ -1,0 +1,43 @@
+{
+	"levelArray":"[ ]"
+}
+
+
+
+
+
+/*
+<?xml version="1.0" encoding="UTF-8"?>
+
+<level-0>
+    <toten>
+        <first-dialog>
+            <line id="0" actorSpeaking="true" >
+                line 1 
+            </line>
+            <line id="1">
+                line 2
+            </line>
+            <line id="2">
+                line 3
+            </line>
+			
+            <line id="3">
+                line 4
+            </line>
+        </first-dialog>
+    </toten>
+
+    <toten2>
+        <line id="0">
+            line 1
+        </line>
+        <line id="1">
+            line 2
+        </line>
+        <line id="2">
+            line 3
+        </line>
+    </toten2>
+</level-0>
+*/
